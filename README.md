@@ -23,7 +23,7 @@ problem.
 ## Setup
 
   - Fork this project to your own Github account
-  - clone the repository to your local machine
+  - clone the repository to your local machine (`git clone...`)
   - `cd` into the project
   - run `npm install` to install the necessary dependencies
   
